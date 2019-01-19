@@ -4,6 +4,8 @@
 
 -> git clone https://github.com/dimas7891/DOS.git
 
+-> unzip DOS.zip
+
 -> cd DOS
 
 -> chmod +x lol.sh
