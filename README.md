@@ -1,4 +1,4 @@
-# Tools DOS REQUEST HTTP
+# Tools DOS REQUEST HTTP FOR TERMUX 
 
 # Cara Install Simple dan Mudah Dipakai
 
@@ -11,3 +11,4 @@
 -> ./lol.sh
 
 Udah Gampang Kan :v 
+
